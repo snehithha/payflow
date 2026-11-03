@@ -110,11 +110,3 @@ All routes `(except /auth/*)` are protected and require the `Authorization: Bear
 
 ---
 
-## You can connect with me via
-
-Email: satyajitsamal.workmail@gmail.com <br>
-LinkedIn: https://linkedin.com/in/satyajitsamal <br>
-X: https://x.com/satyajitstwt <br>
-GitHub: https://github.com/s-satyajit <br>
-Portfolio: https://satyajitsamal.vercel.app
-
